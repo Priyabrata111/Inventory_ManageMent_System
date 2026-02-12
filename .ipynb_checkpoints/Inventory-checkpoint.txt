@@ -1,4 +1,4 @@
-1, Redmi Note 7 Pro, 15000, 10
+1, Redmi Note 7 Pro, 15000,10
 2, Samsung Galaxy M14, 13000, 8
 3, iPhone SE, 30000, 5
 4, Realme Narzo 60, 17000, 12
@@ -7,4 +7,4 @@
 7, Poco X5, 18000, 7
 8, Motorola G54, 14000, 11
 9, Oppo A78, 19000, 4
-10, Redmi 13C, 9000, 15
+10, Redmi 13C, 9000,15
