@@ -1,5 +1,5 @@
-1, Redmi Note 7 Pro, 15000, 10
-2, Samsung Galaxy M14, 13000, 8
+1, Redmi Note 7 Pro, 15000,0
+2, Samsung Galaxy M14, 13000,3
 3, iPhone SE, 30000, 5
 4, Realme Narzo 60, 17000, 12
 5, OnePlus Nord CE, 25000, 6
